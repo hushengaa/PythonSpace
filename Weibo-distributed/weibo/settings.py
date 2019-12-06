@@ -109,7 +109,7 @@ MONGO_URI = 'mongodb://用户名:密码@localhost:27017'
 
 MONGO_DATABASE = 'weibo'
 
-REDIS_URL = 'redis://:密码@47.104.68.23:6379'
+REDIS_URL = 'redis://:密码@localhost:6379'
 
 COOKIES_URL = 'http://localhost:5000/weibo/random'
 
